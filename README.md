@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**igortfcorrea/igortfcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on building scalable Android applications and high-quality mobile architectures.
 
-Here are some ideas to get you started:
+I specialize in Kotlin-based Android development, modern Android architecture, and performance optimization. My work focuses on creating maintainable mobile systems that scale with growing product and engineering teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📱 Senior Android Engineer
+- 🏗️ Focused on scalable mobile architecture
+- 💡 Passionate about clean code, performance, and developer experience
+- 🌎 Interested in global remote opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile Development
+- Kotlin
+- Java
+- Android SDK
+- Jetpack Compose
+- Android Jetpack Libraries
+
+### Architecture
+- MVVM
+- MVI
+- Clean Architecture
+- Modularization
+
+### Asynchronous & Reactive
+- Kotlin Coroutines
+- Flow
+- RxJava
+
+### Networking
+- Retrofit
+- REST APIs
+- GraphQL (Apollo)
+
+### Dependency Injection
+- Hilt
+- Dagger
+- Koin
+
+### Media & UI
+- ExoPlayer
+- Coil
+- Glide
+- Picasso
+
+### Tools
+- Git
+- Firebase
+- CI/CD
+- Gradle
