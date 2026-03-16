@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yourusername&color=006bed)
-
-# Hi there, I'm Igor!
+# Hi there, I'm Igor! 👋
 Senior Android Engineer focused on building scalable and maintainable mobile applications.
 
 Specialized in Kotlin-based Android development, modern mobile architecture (MVVM, MVI, Clean Architecture), and performance optimization.
