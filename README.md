@@ -11,7 +11,7 @@ Experienced in designing large-scale mobile systems.
 - 💼 Working as a **Senior Android Engineer**.
 - 🏗️ Focused on **mobile architecture, performance optimization, and scalable systems**.
 - 🌎 Interested in **global remote opportunities (US/EU)**.
-- 🌱 Currently learning more about **Kotlin Multiplataform (KMP)**.
+- 🌱 Currently learning more about **Kotlin Multiplataform (KMP)** and **Backend with Javascript/Typescript**.
 
 ## 🚀 Tech Stack
 
