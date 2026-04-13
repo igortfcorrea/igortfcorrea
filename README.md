@@ -1,9 +1,9 @@
 # Hello, I'm Igor! 👋
 Senior Android Engineer focused on building scalable and maintainable mobile applications.
 
-Specialized in Kotlin-based Android development, modern mobile architecture (MVVM, MVI, Clean Architecture), and performance optimization.
+Specialized in Kotlin-based Android development, modern mobile architecture (MVVM, MVI, Clean Architecture).
 
-Experienced in designing large-scale mobile systems.
+Strong background in offline-first architectures, performance optimization, and testing strategies.
 
 ## About Me
 
