@@ -23,8 +23,8 @@ Strong background in offline-first architectures, performance optimization, and 
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
-![JavaScript](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
